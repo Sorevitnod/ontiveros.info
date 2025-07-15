@@ -1,0 +1,9 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix solid: <http://www.w3.org/ns/solid/terms#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<#me> a foaf:Person ;
+    foaf:name "Denis Ontiveros Merlo" ;
+    foaf:mbox <mailto:denis@ontiveros.info> ;
+    foaf:homepage <https://ontiveros.info> ;
+    solid:account <https://ontiveros.info/> .
